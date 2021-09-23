@@ -77,3 +77,7 @@ a:hover::before, a:focus::before {
 	vertical-align: middle;
 	text-align: center;
 }
+
+img {
+    border: 5px solid #555;
+  }
